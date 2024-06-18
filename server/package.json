@@ -21,5 +21,8 @@
     "sequelize": "^6.37.3",
     "sequelize-cli": "^6.6.2",
     "shapefile": "^0.6.6"
+  },
+  "dependencies": {
+    "dropbox": "^10.34.0"
   }
 }
